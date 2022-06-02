@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Фотка кота](https://proprikol.ru/wp-content/uploads/2020/08/krasivye-kartinki-kotov-45.jpg)
